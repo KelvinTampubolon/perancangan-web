@@ -1,0 +1,4 @@
+1.Bagian dari internet yang terdiri dari halaman-halaman yang dapat diakses oleh browser web
+2.URI bisa berupa nama,lokasi,nama dan lokasi.. Sedangkan URL hanya menyediakan lokasi resource
+3.<head>  <title>   <body>
+4.deklarasi yang menjelaskan jenis file yang digunakan termasuk ke dalam jenis file HTML
